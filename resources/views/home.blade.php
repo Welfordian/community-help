@@ -43,7 +43,7 @@
 @endsection
 
 @section('scripts')
-    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cdn.tiny.cloud/1/loz8k2soidyblhy4jvcj55ibojjiqto6fhwconn76wyc0d7f/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
     <script>
         tinymce.init({
             selector: '[name="help_info"]'
